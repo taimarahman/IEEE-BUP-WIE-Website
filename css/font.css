@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Optima";
+    src: url(../fonts/Optima/OPTIMA.eot) format("eot"),
+    url(../fonts/Optima/Optima.svg#Optima) format("svg"),
+    url(../fonts/Optima/OPTIMA.ttf) format("truetype"),
+    url(../fonts/Optima/Optima.woff) format("woff");
+}
+
+/* 
+@font-face {
+    font-family: "";
+    src: url(fonts) format("eot"),
+    url(fonts) format("svg"),
+    url(fonts) format("truetype"),
+    url(fonts) format("woff");
+}
+ */
